@@ -1,0 +1,10 @@
+# Keil MDK 构建产物 (每次编译都变, 不进版本库, keilkill.bat 可一键清理)
+Objects/
+Listings/
+*.uvguix.*
+*.dep
+build.log
+
+# 临时/备份文件
+*.bak
+~$*
